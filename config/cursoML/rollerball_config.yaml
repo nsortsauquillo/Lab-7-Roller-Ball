@@ -13,7 +13,7 @@ behaviors:
       beta_schedule: constant
       epsilon_schedule: linear
     network_settings:
-      normalize: false
+      normalize: true
       hidden_units: 128
       num_layers: 2
     reward_signals:
