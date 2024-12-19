@@ -2,31 +2,31 @@
     "RollerBall": {
         "checkpoints": [
             {
-                "steps": 499989,
-                "file_path": "results\\Lab-7-Roller-Ball\\RollerBall\\RollerBall-499989.onnx",
+                "steps": 499981,
+                "file_path": "results\\Lab-7-Roller-Ball\\RollerBall\\RollerBall-499981.onnx",
                 "reward": 0.0,
-                "creation_time": 1734614624.059011,
+                "creation_time": 1734645296.6936054,
                 "auxillary_file_paths": [
-                    "results\\Lab-7-Roller-Ball\\RollerBall\\RollerBall-499989.pt"
+                    "results\\Lab-7-Roller-Ball\\RollerBall\\RollerBall-499981.pt"
                 ]
             },
             {
-                "steps": 500033,
-                "file_path": "results\\Lab-7-Roller-Ball\\RollerBall\\RollerBall-500033.onnx",
-                "reward": 0.5,
-                "creation_time": 1734614624.1365547,
+                "steps": 500014,
+                "file_path": "results\\Lab-7-Roller-Ball\\RollerBall\\RollerBall-500014.onnx",
+                "reward": 0.0,
+                "creation_time": 1734645296.749848,
                 "auxillary_file_paths": [
-                    "results\\Lab-7-Roller-Ball\\RollerBall\\RollerBall-500033.pt"
+                    "results\\Lab-7-Roller-Ball\\RollerBall\\RollerBall-500014.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 500033,
+            "steps": 500014,
             "file_path": "results\\Lab-7-Roller-Ball\\RollerBall.onnx",
-            "reward": 0.5,
-            "creation_time": 1734614624.1365547,
+            "reward": 0.0,
+            "creation_time": 1734645296.749848,
             "auxillary_file_paths": [
-                "results\\Lab-7-Roller-Ball\\RollerBall\\RollerBall-500033.pt"
+                "results\\Lab-7-Roller-Ball\\RollerBall\\RollerBall-500014.pt"
             ]
         }
     },
